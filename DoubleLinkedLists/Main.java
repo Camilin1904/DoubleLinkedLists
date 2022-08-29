@@ -12,17 +12,19 @@ class Main {
     System.out.println("el node es: "+ a.getValue());
     System.out.println("el anterior es: "+a.getPrevious().getValue());
     System.out.println("el siguiente es: "+a.getNext().getValue());
+	System.out.println("Bien hecho");
 
+	//le faltaba un asterisco y esto :)
     dll.print(); 
-    System.out.println("*********");
+    System.out.println("**********");
     dll.delete(13);
     dll.print();
 
-    System.out.println("*********");
+    System.out.println("**********");
     dll.delete(15);
     dll.print();
 
-    System.out.println("********");
+    System.out.println("*********");
     dll.delete(10);
     dll.print();
 
