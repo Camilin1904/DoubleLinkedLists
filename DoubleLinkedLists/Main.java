@@ -13,7 +13,7 @@ class Main {
     System.out.println("el anterior es: "+a.getPrevious().getValue());
     System.out.println("el siguiente es: "+a.getNext().getValue());
 
-	//le faltaba un asterisco
+	//le faltaba un asterisco y esto :)
     dll.print(); 
     System.out.println("**********");
     dll.delete(13);
