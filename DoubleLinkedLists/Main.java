@@ -12,6 +12,7 @@ class Main {
     System.out.println("el node es: "+ a.getValue());
     System.out.println("el anterior es: "+a.getPrevious().getValue());
     System.out.println("el siguiente es: "+a.getNext().getValue());
+	System.out.println("Bien hecho");
 
 	//le faltaba un asterisco y esto :)
     dll.print(); 
