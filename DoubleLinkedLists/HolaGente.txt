@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+Hola gente :D
+=======
+Hola gente :D
+
+pelota :D
+>>>>>>> feature_2
